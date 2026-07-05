@@ -1,19 +1,80 @@
-# React + Vite
+# Modern SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern SaaS landing page built with React, Tailwind CSS. Designed with smooth animations, glassmorphism, and a clean UI.
 
-Currently, two official plugins are available:
+## Preview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Navbar and Hero Section
 
-## React Compiler
+![Navbar](./Showcase/image1.png)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+### Features
 
-## Expanding the ESLint configuration
+![Features]("./Showcase/image2.png")
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# ModernLandingPage
+---
+
+### Pricing
+
+![Pricing](./Showcase/image3.png)
+
+---
+
+### Testimonials
+
+![Testimonials](./Showcase/image4.png)
+
+---
+
+### Footer
+
+![Footer](./Showcase/image5.png)
+
+## Tech Stack
+
+- React
+- Tailwind CSS
+- Lucide React
+
+## Features
+
+- Responsive Design
+- Modern Glassmorphism UI
+- Smooth Animations
+- Interactive Pricing Cards
+- Customer Testimonials
+- Mobile Navigation
+- Reusable Components
+
+## Getting Started
+
+```bash
+git clone https://github.com/ParveenRawat/ModernLandingPage
+cd ModernLandingPage
+npm install
+npm run dev
+```
+
+## Project Structure
+
+```
+src/
+├── components/
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── Features.jsx
+│   ├── Pricing.jsx
+│   ├── Testimonials.jsx
+│   └── Footer.jsx
+├── data/
+│   └── examples.js
+├── App.jsx
+├── index.css
+└── main.jsx
+```
+
+<!-- ## License -->
+<!---->
+<!-- MIT -->
