@@ -12,7 +12,7 @@ A responsive and modern SaaS landing page built with React, Tailwind CSS. Design
 
 ### Features
 
-![Features]("./Showcase/image2.png")
+![Features](./Showcase/image2.png)
 
 ---
 
